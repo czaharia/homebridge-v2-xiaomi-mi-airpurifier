@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "XiaomiMiAirPurifierV2",
+  "pluginAlias": "AirPurifierXiaomi",
   "pluginType": "accessory",
   "singular": false,
   "schema": {
